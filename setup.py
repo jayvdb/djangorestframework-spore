@@ -14,7 +14,7 @@ setup(
     version='0.1.0',
     description='drf addon for Spore specification',
     long_description=readme,
-    author='Arnaud Grausem'
+    author='Arnaud Grausem',
     author_email='arnaud.grausem@unistra.fr',
     url='https://github.com/unistra/djangorestframework-spore',
     license=license,
